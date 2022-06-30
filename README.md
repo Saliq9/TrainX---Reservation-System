@@ -1,0 +1,2 @@
+# TrainX---Reservation-System
+The system developed here enables the passengers to retrieve all trains available on the basis of source and destination station with reservation and cancellation of tickets, add extra services like meals to their journey etc. The aim was to create a user-friendly interface in order for passengers to book train ticket as well as create a framework which will automate the process of booking.
